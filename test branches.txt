@@ -1,0 +1,10 @@
+#test branches
+#další testovací soubor
+#testování přidání dalšího souboru
+#testování vytváření branches
+#testování slučování branches
+
+#
+branch master
+toto je první řádek, zatím v branche master
+nejprve soubor přidán do projektu
