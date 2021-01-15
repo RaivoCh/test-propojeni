@@ -26,3 +26,5 @@ vynechám několik řádků, abych mohl něco dopisovat
 
 
 a od řádku 30 vytvořím novou větev
+
+teď jsem vytvořil novou větev branch2
