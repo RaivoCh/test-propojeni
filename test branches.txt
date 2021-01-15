@@ -13,8 +13,8 @@ od řádku 12 je vytvořena nová větev branch1
 vynechám několik řádků, abych mohl něco dopisovat
 
 
-
-
+a sem napíšu něco, co je pouze ve větvi branch1
+a pochopitelně tvořeno v této větvi (kontrola dole)
 
 
 
