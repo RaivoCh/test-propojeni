@@ -38,4 +38,5 @@ teď ještě zkusím vytvořit branch3, ve které nahradím přímo obsah řádk
 
 
 tento řádek je branche1 doplněn o tento text
+a teď ještě zkusím vložit další řádek tam kde předtím nebyl
 tento text z branch3 nahrazuje původní text z branch1
