@@ -32,10 +32,10 @@ teď jsem vytvořil novou větev branch2
 a sem napíšu něco, co je pouze ve větvi branch2
 a pochopitelně tvořeno v této větvi (kontrola dole)
 
-a tohle je podoba po sloučení branche1 s obsahem branche2
+a tohle je podoba po sloučení branch1 s obsahem branche2
 
-teď ještě zkusím vytvořit branche3, ve které nahradím přío obsah řádků 40 a 41 novým obsahem
+teď ještě zkusím vytvořit branch3, ve které nahradím přímo obsah řádků 40 a 41 novým obsahem
 
 
-tento řádek je branche1
-a měl by být nahrazen obsahem z branche3
+tento řádek je branche1 doplněn o tento text
+tento text z branch3 nahrazuje původní text z branch1
