@@ -26,3 +26,8 @@ a pochopitelně tvořeno v této větvi (kontrola dole)
 
 
 a od řádku 30 vytvořím novou větev
+
+teď jsem vytvořil novou větev branch2
+
+a sem napíšu něco, co je pouze ve větvi branch2
+a pochopitelně tvořeno v této větvi (kontrola dole)
